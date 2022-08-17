@@ -8,10 +8,9 @@
 <h3 align="center">Playlist App</h3>
 
   <p align="center">
-    SwiftUI Playlist App to create a "written mixtape", alongside a Spotify playlist JSON, in order to add a description for a song.
+    SwiftUI Playlist App to create a "written mixtape," alongside a Spotify playlist JSON, in order to add a description for a song.
     <br />
     <br />
-    .
     <a href="https://github.com/arrrshia/Playlist-App/issues">Report Bug</a>
     ·
     <a href="https://github.com/arrrshia/Playlist-App/issues">Request Feature</a>
