@@ -27,7 +27,7 @@
 
 ### Built With
 
-* [![SwiftUI-url](https://developer.apple.com/xcode/swiftui/)]
+* [SwiftUI(https://developer.apple.com/xcode/swiftui/)]
 * [![SoundIIZ][soundiiz.com]][[soundiiz-url](https://soundiiz.com/tutorial/import-json-to-spotify)]
 * [![SDWebImage][[SDWebImage-url](https://github.com/SDWebImage/SDWebImageSwiftUI)]
 
