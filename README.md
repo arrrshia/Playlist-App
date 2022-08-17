@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://media3.giphy.com/media/XL2O1iG1UB7KusVz3X/giphy.gif?cid=790b7611d45c8326fb415f1941329d838b694d14248f991e&rid=giphy.gif&ct=g" width="290" height="550">
+<img src="https://media3.giphy.com/media/XL2O1iG1UB7KusVz3X/giphy.gif?cid=790b7611d45c8326fb415f1941329d838b694d14248f991e&rid=giphy.gif&ct=g" width="250" height="585">
 
 
 ### Built With
