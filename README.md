@@ -5,7 +5,7 @@
     <img src="appstore1024.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Playlist App</h3>
 
   <p align="center">
     SwiftUI Playlist App to Customize, alongside a Spotify playlist JSON, in order to add a description for a song.
